@@ -1,19 +1,16 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### The Society of St. Vincent de Paul
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Members of the Society of St.Vincent de Paul (or "Vincentians" ) are men and women who strive to grow spiritually by offering person-to-person service to individuals in need. We are young and old. Our members come in every shade of skin color. Some of us are wealthy, some are financially poor, but all of us are blessed with an awareness that our blessings (time, talent or treasure) are to be shared with our brothers and sisters in need.\
+\
+We know that we are not alone. We are part of an international society of friends united by a spirit of poverty, humility, and sharing, which is nourished by prayer and reflection, mutually supportive gatherings, and adherence to a basic Rule.\
+\
+Energized by the awareness that service to our brother or sister in need is in fact an encounter with our Lord Jesus Christ, members of the Society of St. Vincent de Paul are keenly aware that poverty, suffering and loneliness are present for millions in our communities. For that reason, we collaborate with all who seek to relieve need and address its causes.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+The Society of St. Vincent de Paul offers tangible assistance to those in need on a person-to-person basis. It is this personalized involvement that makes the work of the Society unique. This aid may take the form of intervention, consultation, or often through direct dollar or in-kind service. An essential precept of the Society's work is to provide help while conscientiously maintaining the confidentiality and dignity of those who are served. The Society recognizes that it must assume, also, a role of advocacy for those who are defenseless or voiceless. \
+\
+The list of services of the Society of St. Vincent de Paul in the kattoor is endless. No work of charity is foreign to the Society. To quote our patron, St. Vincent de Paul: "Charity is infinitely inventive."Single origin
