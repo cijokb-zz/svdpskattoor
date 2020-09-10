@@ -1,3 +1,7 @@
+# For running locally reference (https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository)
+# step 1 run npx netlify-cms-proxy-server 
+#  uncomment the below line
+# local_backend: true
 backend:
   name: git-gateway
   branch: master
