@@ -122,5 +122,5 @@ This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gats
 
 # CONTRIBUTING
 
-Contributions are always welcome, no matter how large or small. Before contributing,
+Contributions are always welcome, no matter how large or small.Make a technical contribution;innovate,don't emulate. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
